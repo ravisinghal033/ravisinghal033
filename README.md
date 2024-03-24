@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Real Time chat application with Django and python **
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Machine Laerning**
 
 - 👨‍💻 All of my projects are available at https://github.com/ravisinghal033
 
