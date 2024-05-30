@@ -1,4 +1,3 @@
-
 Hi 👋, I'm Ravi Singhal</h1>
 
 <h3 align="center">A passionate full Stack developer from India</h3> 
