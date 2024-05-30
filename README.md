@@ -1,5 +1,4 @@
 
-<h1 align="center">![github-header-image](https://github.com/ravisinghal033/ravisinghal033/assets/113414376/2bf3e120-5a26-4525-be2d-b35905471b51) <br>
 Hi 👋, I'm Ravi Singhal</h1>
 
 <h3 align="center">A passionate full Stack developer from India</h3> 
