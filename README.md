@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ravi Singhal</h1>
+<h1 align="center">![github-header-image](https://github.com/ravisinghal033/ravisinghal033/assets/113414376/2bf3e120-5a26-4525-be2d-b35905471b51)
+Hi 👋, I'm Ravi Singhal</h1>
 
 <h3 align="center">A passionate full Stack developer from India</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
