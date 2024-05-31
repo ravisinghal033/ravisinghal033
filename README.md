@@ -1,4 +1,4 @@
-![Header](./github-header-image-1.png)
+![Header](./githup-header-image-1.png)
 <h1 align="center">Hi 👋, I'm Ravi Singhal</h1>
 
 <h3 align="center">A passionate full Stack developer from India</h3> 
